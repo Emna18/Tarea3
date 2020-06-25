@@ -1,0 +1,18 @@
+body{
+ 	height: 1300px;
+ 	background-image: url(fondo3.jpg);	
+ 	background-attachment: fixed;
+ 	position: relative;
+   background-size: cover;
+   background-position: center;
+ 	  }
+ 	  ol {
+ 	  	 color:#920729;
+ 	  	 font-family: verdana;
+ 	  	 font-size: 16px; 
+ 	  	 	  }
+ 	  	 	  hr {
+  height: 10px;
+  width: 50%;
+  background-color: red;
+}
